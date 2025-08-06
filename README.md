@@ -2,6 +2,20 @@
 
 A comprehensive CRUD web application for managing employees and departments at Apollonia Dental Practice. Built with Node.js, Express, MongoDB, and a modern web interface.
 
+## 📸 Application Screenshots
+
+### Employee Management Interface
+![Employee Management](public/png_1.PNG)
+
+### Department Management Interface  
+![Department Management](public/png_2.PNG)
+
+### Edit Employee Modal
+![Edit Employee](public/png_3.PNG)
+
+### Edit Department Modal
+![Edit Department](public/png_4.PNG)
+
 ## Features
 
 - **Employee Management**: Create, read, update, and delete employee records
